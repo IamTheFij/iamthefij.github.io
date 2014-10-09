@@ -288,7 +288,7 @@ module.exports = function (grunt) {
     buildcontrol: {
       dist: {
         options: {
-          remote: 'origin',
+          remote: 'https://github.com/IamTheFij/IamTheFij.github.io.git',
           branch: 'master',
           commit: true,
           push: true

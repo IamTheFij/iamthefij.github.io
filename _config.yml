@@ -4,7 +4,7 @@
 # 3. config.yml
 
 name: iamthefij-io
-description: My personal site
+description: My page
 author:
   name: Ian Fijolek
   email: IamTheFij@gmail.com
@@ -18,10 +18,6 @@ include: ['.htaccess']
 # _config.build.yml sets future and show_drafts to false on `grunt build`
 future: true
 show_drafts: true
-
-permalink: date
-paginate: 10
-paginate_path: 'page:num'
 
 # Markdown library
 markdown: kramdown
