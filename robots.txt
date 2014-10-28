@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://iamthefij.github.io/sitemap.xml 
