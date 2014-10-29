@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://www.iamthefij.com/atom.xml" rel="self"/>
   <link href="http://www.iamthefij.com/"/>
-  <updated>2014-10-29T16:32:28-07:00</updated>
+  <updated>2014-10-29T16:57:30-07:00</updated>
   <id>http://www.iamthefij.com/</id>
   <author>
     <name><![CDATA[Ian Fijolek]]></name>
@@ -12,5 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://www.iamthefij.com/blog/2014/10/29/hello-world/"/>
+    <updated>2014-10-29T16:55:25-07:00</updated>
+    <id>http://www.iamthefij.com/blog/2014/10/29/hello-world</id>
+    <content type="html"><![CDATA[<h3>Hello world!</h3>
+
+<p>Just getting things up and running here, nothing really to see yet.</p>
+
+<p>Feel free to checkout <a href="http://picturesofpeopletakingotherpictures.com">picturesofpeopletakingotherpictures.com</a> while I get this running.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>echo 'hello world'</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
   
 </feed>
