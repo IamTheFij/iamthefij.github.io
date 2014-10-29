@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://iamthefij.github.io/sitemap.xml 
+Sitemap: http://www.iamthefij.com/sitemap.xml 
